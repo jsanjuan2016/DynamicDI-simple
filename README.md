@@ -1,4 +1,4 @@
-# DynamicDependencyInjectionNoParams
+# DynamicDI-simple
  
 ## Descripción
 
